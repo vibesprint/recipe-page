@@ -1,0 +1,21 @@
+body, p, h1 {
+    margin: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #F3E5D7;
+    padding: 128px 48px;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    max-width: 736px;
+    padding: 40px;
+    border-radius: 24px;
+    background-color: #FFFFFF;
+}
