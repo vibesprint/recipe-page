@@ -42,7 +42,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 What I learned new was CSS pseudo elements and pseudo classes. Styling the numbers of the list tag `<ol>` using the pseudo
 element `li::marker` was new to me. Then for the table, it had to be styled using pseudo classes like `td:first-child`
-to give borders only between rows and give spaces only between rows.
+to give borders only between rows and give spaces only between rows. Also learning media queries was something new.
 
 HTML structuring was a little difficult this time. It was a lot more sections and a lot of styles to different sections.
 Also learned about the new semantic HTML elements like
@@ -64,6 +64,7 @@ Styling is becoming difficult. Lots of repitition. I would like to look into mor
 - [https://www.w3schools.com/html/html5_semantic_elements.asp](https://www.w3schools.com/html/html5_semantic_elements.asp) - This is for the semantic HTML elements.
 - [https://www.w3schools.com/css/css_table.asp](https://www.w3schools.com/css/css_table.asp) - This is for the CSS styling of the tables.
 - [https://www.geeksforgeeks.org/css/css-tables/](https://www.geeksforgeeks.org/css/css-tables/) - Also for CSS table styling.
+- [https://www.w3schools.com/css/css_rwd_mediaqueries.asp](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - For media queries
 
 ## Author
 
